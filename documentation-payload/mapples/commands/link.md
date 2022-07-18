@@ -36,7 +36,7 @@ link
 In pop up menu
 ```
 Host: client01.shire.local
-Payload: Apollo_SMB.exe
+Payload: Mapples_SMB.exe
 ```
 
 
